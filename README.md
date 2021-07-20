@@ -1,8 +1,8 @@
-- ☺sup i'm cheerios
-- 😯i like games
-- ❣still learning html!! lmao
-- 😛idk why i made an acc i suck at coding
-- 🤑discord is i dont have a name#0317 and my other socials are cheerios473
+👋 Hi, I'm @cheerios473/Oliver
+👀 I'm interested in games, instruments, robots 
+🌱 I'm currently learning html :innocent:
+💞 I'm looking to collaborate on games and stuff 
+📫 How to reach me: Discord: Socks?!#5644 | Other socials: cheerios473
 
 <!---
 cheerios473/cheerios473 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
